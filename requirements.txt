@@ -1,0 +1,7 @@
+torch
+numpy
+cupy-cuda12x
+numba
+jax
+jaxlib
+matplotlib
